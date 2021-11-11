@@ -55,3 +55,4 @@ widgetsnbextension==3.5.1
 ipython
 numpy
 matplotlib  
+fluids
